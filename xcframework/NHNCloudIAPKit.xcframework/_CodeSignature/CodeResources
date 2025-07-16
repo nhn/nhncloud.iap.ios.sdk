@@ -50,7 +50,7 @@
 		</data>
 		<key>ios-arm64/NHNCloudIAPKit.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		TavVkxoeTPSY35GFmUeu1hvKTBE=
+		+L+baOstqB0+7uap1XwqndZBsqQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/NHNCloudIAPKit.framework/Info.plist</key>
 		<data>
@@ -244,11 +244,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TavVkxoeTPSY35GFmUeu1hvKTBE=
+			+L+baOstqB0+7uap1XwqndZBsqQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			N/KGetjimmRR/OkYOKuZtcWjH5EcO3krVx9q5B13zQo=
+			7tChLyWvpJqFoyAxlqNj/tgqu6vu1fnEcdeuGyPoOBg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/NHNCloudIAPKit.framework/Info.plist</key>

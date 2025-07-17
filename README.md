@@ -12,6 +12,8 @@ NHNCloudIAPKit iOS SDK
 * Xcode 15.1 or later
 * iOS 15.0 or later
 
+### Documentation
+* [NHNCloudIAPKit Guide](https://nhn.github.io/nhncloud.iap.ios.sdk/documentation/nhncloudiapkit/)
 
 ## Installation
 

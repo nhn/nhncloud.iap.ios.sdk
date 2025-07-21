@@ -35,7 +35,7 @@ https://github.com/nhn/nhncloud.iap.ios.sdk
     
 
 ### Manual
-1. Download the latest release from the [releases page](https://github.com/nhn/nhncloud.iap.ios.sdk/archive/1.0.0.zip).
+1. Download the latest release from the [releases page](https://github.com/nhn/nhncloud.iap.ios.sdk/releases).
 2. Unzip the downloaded file.
 3. Drag and drop the `NHNCloudIAPKit.xcframework` into your Xcode project.
 4. Ensure that the `NHNCloudIAPKit.xcframework` is added to your target's "Frameworks, Libraries, and Embedded Content" section.
